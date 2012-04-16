@@ -4,7 +4,7 @@ Plugin Name: Goat Tree Lightbox Gallery Launcher
 Description: Adds a sidebar widget that uses the posts's featured image as a link to open a lightbox gallery.
 Version: 1.0
 Author: Andy Shaw
-Author URI: http://goat-tree.co.uk/gt-pop-up-image-gallery-widget
+Author URI: http://goat-tree.co.uk/gt-lightbox-gallery-launcher
 
 Copyright 2012  Andy Shaw  (email : contact@goat-tree.co.uk)
 
